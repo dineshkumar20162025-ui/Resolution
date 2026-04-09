@@ -1,0 +1,2 @@
+# Resolution
+Resolution Changer bot
